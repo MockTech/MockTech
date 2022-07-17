@@ -1,7 +1,7 @@
-👋 Hi, I’m @MockTech - Tarik Mokthech
-👀 I’m interested in helping developers grow and problem solving
-🔭 I’m currently working on dbSpy
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarik-mokhtech/)
+- 👋 Hi, I’m @MockTech - Tarik Mokthech
+- 👀 I’m interested in helping developers grow and problem solving
+- 🔭 I’m currently working on dbSpy
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarik-mokhtech/)
 
 
 <!--
