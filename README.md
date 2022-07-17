@@ -1,13 +1,7 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Tarik Mokthech</h1>
-- 🔭 I’m currently working on **dbSpy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocktech&show_icons=true&locale=en" alt="mocktech" /></p>
+👋 Hi, I’m @MockTech - Tarik Mokthech
+👀 I’m interested in helping developers grow and problem solving
+🔭 I’m currently working on dbSpy
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarik-mokhtech/)
 
 
 <!--
